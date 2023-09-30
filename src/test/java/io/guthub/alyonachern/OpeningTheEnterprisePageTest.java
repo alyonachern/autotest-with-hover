@@ -1,3 +1,5 @@
+package io.guthub.alyonachern;
+
 import org.junit.jupiter.api.BeforeAll;
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.Test;
